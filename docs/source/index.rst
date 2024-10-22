@@ -15,4 +15,5 @@ Contents
 
    MB_page
    MB_page2.md
+   usage.md
    api
