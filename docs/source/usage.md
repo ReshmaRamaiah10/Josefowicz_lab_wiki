@@ -2,7 +2,7 @@
 
 ## Steps to Edit the Website on terminal
 
-1. **Clone the `Josefowicz_lab_wiki` repository and enter the directory**:
+1. **Clone the `Josefowicz_lab_wiki` [repository](https://github.com/ReshmaRamaiah10/Josefowicz_lab_wiki) and enter the directory**:
    ```bash
    git clone https://github.com/YourUsername/Josefowicz_lab_wiki.git
    cd Josefowicz_lab_wiki
