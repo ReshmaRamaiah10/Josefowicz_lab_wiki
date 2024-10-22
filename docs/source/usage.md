@@ -8,12 +8,12 @@
 
 2. **Create a Conda Environment (manually)**:
    ```bash
-   conda create -n myenv python=3.8
+   conda create -n sphinx_env python=3.8
    ```
 
 3. **Activate the Environment**:
    ```bash
-   conda activate myenv
+   conda activate sphinx_env
    ```
 
 4. **Install Dependencies**:
