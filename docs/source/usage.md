@@ -1,6 +1,4 @@
-# Edit This Website
-
-## Steps to Edit the Website on terminal
+# Edit the Website on terminal
 
 1. **Clone the `Josefowicz_lab_wiki` [repository](https://github.com/ReshmaRamaiah10/Josefowicz_lab_wiki) and enter the directory**:
    ```bash
