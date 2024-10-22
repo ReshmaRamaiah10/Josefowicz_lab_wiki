@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.githubpages',
     'myst_parser',  # For Markdown support
     'jupyter_sphinx',  # For Jupyter Notebooks
 ]
@@ -42,3 +43,18 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Add a custom option for the edit link
+html_theme_options = {
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': True,
+    'nav_links': [
+        {
+            'name': 'Edit on Github',
+            'url': 'https://github.com/ReshmaRamaiah10/Josefowicz_lab_wiki/blob/main/docs/source/index.rst',
+            'newtab': True,
+        },
+    ],
+}
+
