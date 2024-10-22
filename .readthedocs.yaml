@@ -8,6 +8,8 @@ build:
 python:
   install:
     - requirements: docs/requirements.txt
+    - requirements:
+        - myst-parser
 
 sphinx:
   configuration: docs/source/conf.py
