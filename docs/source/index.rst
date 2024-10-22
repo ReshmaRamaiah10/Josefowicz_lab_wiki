@@ -1,5 +1,5 @@
 Welcome to Josefowicz Lab documentation!
-===================================
+========================================
 
 Our lab specializes in the intersection of epigenetics and immunology, exploring how epigenetic regulation influences transcriptional responses in immune cells.
 Our research aims to uncover fundamental epigenetic mechanisms that govern inflammatory responses, with a specific emphasis on both pediatric and adult inflammatory diseases.
