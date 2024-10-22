@@ -33,3 +33,12 @@
    ```bash
    sphinx-autobuild . _build/html
    ```
+   After running the command, you should see output indicating that the server is running. It usually shows a message like:
+   ```arduino
+   > Server is running on http://127.0.0.1:8000/
+   ```
+   Open your web browser and navigate to that URL (typically `http://127.0.0.1:8000/`) to view your documentation.
+
+   > **Automatic Reload:**
+   >
+   > One of the benefits of using `sphinx-autobuild` is that it automatically rebuilds your documentation whenever you make changes to the source files. You can just save your changes, and the browser will refresh to show the updated content.
