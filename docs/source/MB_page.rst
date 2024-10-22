@@ -1,7 +1,7 @@
 MB_Page
 =======
 
-.rst file
+.rst file format
 
 .. _installation:
 
