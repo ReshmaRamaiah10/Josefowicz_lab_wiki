@@ -19,6 +19,6 @@ Contents
 .. toctree::
 
    MB_page
-   MB_page2.md
+   #MB_page2.md
    usage
    api
