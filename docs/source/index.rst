@@ -15,5 +15,11 @@ Contents
 
    MB_page
    MB_page2.md
-   usage.md
    api
+
+.. toctree::
+   :caption: Edit this website
+   :maxdepth: 1
+   :hidden:
+
+   usage.md
