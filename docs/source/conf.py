@@ -17,6 +17,15 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser',  # For Markdown support
+    'jupyter_sphinx',  # For Jupyter Notebooks
+]
+
+# Optionally, configure myst-parser options
+myst_enable_extensions = [
+    "dollarmath",
+    "amsmath",
+    "linkify",
 ]
 
 intersphinx_mapping = {
