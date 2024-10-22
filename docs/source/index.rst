@@ -22,4 +22,4 @@ Contents
    :maxdepth: 1
    :hidden:
 
-   usage.md
+   usage
