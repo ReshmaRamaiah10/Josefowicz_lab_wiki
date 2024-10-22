@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to Josefowicz Lab documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Our lab specializes in the intersection of epigenetics and immunology, exploring how epigenetic regulation influences transcriptional responses in immune cells.
+Our research aims to uncover fundamental epigenetic mechanisms that govern inflammatory responses, with a specific emphasis on both pediatric and adult inflammatory diseases.
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
