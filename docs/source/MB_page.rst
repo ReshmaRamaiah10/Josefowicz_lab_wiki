@@ -1,5 +1,5 @@
-Heading1
-========
+MD_Page
+=======
 
 .. _installation:
 
