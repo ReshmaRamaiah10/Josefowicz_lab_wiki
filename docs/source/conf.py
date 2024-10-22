@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Josefowicz Lab'
+project = 'Josefowicz_Lab'
 copyright = '2024, Reshma'
 author = 'Reshma Ramaiah'
 
