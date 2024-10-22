@@ -19,5 +19,4 @@ Contents
 .. toctree::
 
    MB_page
-   usage
    api
