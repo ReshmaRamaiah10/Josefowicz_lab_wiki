@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Josefowicz_Lab - Python library for basic multiome analysis.
 """
 
 __version__ = "0.1.0"
