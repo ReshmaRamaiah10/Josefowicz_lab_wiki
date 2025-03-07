@@ -7,3 +7,7 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+The page is under development:
+
+https://josefowicz-lab-wiki.readthedocs.io/en/latest/
